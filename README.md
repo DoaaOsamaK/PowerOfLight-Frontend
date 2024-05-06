@@ -1,5 +1,7 @@
 # 🌌 Power Of Light
 
+This project is a web page that uses HTML, CSS, and JavaScript to display interactive animations. When users hover over any part of the screen, segments of text are revealed, creating an engaging and dynamic experience.
+
 <br>
 
 ![mobile (5)](https://github.com/DoaaOsamaK/PowerOfLight-Frontend/assets/147305995/9f8bc57e-39a3-4888-8c95-c8d4da4f62b6)
